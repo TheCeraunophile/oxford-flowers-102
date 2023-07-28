@@ -1,0 +1,5 @@
+data/oxfords_flowers_test.bin
+data/oxfords_flowers_train.bin
+data/oxfords_flowers_valid.bin
+data/jpg
+data/compressed
