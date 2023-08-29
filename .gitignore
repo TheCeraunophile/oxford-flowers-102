@@ -3,3 +3,4 @@ data/oxfords_flowers_train.bin
 data/oxfords_flowers_valid.bin
 data/jpg
 data/compressed
+.ipynb_checkpoints
